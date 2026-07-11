@@ -10,9 +10,9 @@
 
 ## 🌸 About Me
 - 🔭 I’m learning **AI / Machine Learning**
-- 🧠 Strong in **Python, SQL , DBMS**
-- 🌱 Improving fundamentals in **SQL**
-- 🎯 Goal: Become a professional **Python developer**
+-🌸 Building a strong foundation in **Python, SQL and Database Management Systems**
+- 🌱 Exploring SQL through hands-on practice and projects
+- 🎯 Goal: Build AI solutions that solve real-world problems
 
 ---
 
