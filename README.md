@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Jhanavi M</h1>
-<h3 align="center">AIML Engineer | Python Developer | DBMS Learner</h3>
+<h3 align="center">AIML Engineer | SQL Learner | Python Learner | DBMS Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jhanavi1910&label=Profile%20Views&color=ff69b4&style=flat" alt="views" />
@@ -10,9 +10,9 @@
 
 ## 🌸 About Me
 - 🔭 I’m learning **AI / Machine Learning**
-- 🧠 Strong in **Python, DSA, C Programming**
+- 🧠 Strong in **Python, SQL , DBMS**
 - 🌱 Improving fundamentals in **SQL**
-- 🎯 Goal: Become a professional **ML Engineer**
+- 🎯 Goal: Become a professional **Python developer**
 
 ---
 
