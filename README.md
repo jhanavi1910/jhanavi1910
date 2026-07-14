@@ -23,12 +23,8 @@
 
 ---
 
-# 📊 GitHub Stats (GPRM Style)
 
-## ⭐ Overall Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhanavi1910&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+
 
 ## 🔥 Streak Stats
 <p align="center">
